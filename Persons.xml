@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persons>
+    <PlatinumCustomer>
+        <personCode>ZMh59V</personCode>
+        <lastName>Anney</lastName>
+        <firstName>Vivyan</firstName>
+        <address>
+            <street>877 Fairview Circle</street>
+            <city>Tacoma</city>
+            <state>WA</state>
+            <zipCode>98424</zipCode>
+            <country>US</country>
+        </address>
+        <emails>
+            <email>vanney0@businesswire.com</email>
+            <email>vanney0@businessinsider.com</email>
+        </emails>
+    </PlatinumCustomer>
+    <Employee>
+        <personCode>TZUAfL</personCode>
+        <lastName>Glanester</lastName>
+        <firstName>Neill</firstName>
+        <address>
+            <street>526 Jenna Drive</street>
+            <city>Washington</city>
+            <state>DC</state>
+            <zipCode>20244</zipCode>
+            <country>US</country>
+        </address>
+        <emails>
+            <email>nglanester1@si.edu</email>
+            <email>nglanester1@bloglovin.com</email>
+            <email>nglanester1@mail.ru</email>
+        </emails>
+    </Employee>
+    <Customer>
+        <personCode>uHsjRm</personCode>
+        <lastName>Mussotti</lastName>
+        <firstName>Barby</firstName>
+        <address>
+            <street>8 Mallory Alley</street>
+            <city>New Orleans</city>
+            <state>LA</state>
+            <zipCode>70129</zipCode>
+            <country>US</country>
+        </address>
+        <emails>
+            <email>bmussotti2@booking.com</email>
+            <email>bmussotti2@tinyurl.com</email>
+        </emails>
+    </Customer>
+    <Employee>
+        <personCode>lTdsaM</personCode>
+        <lastName>Grice</lastName>
+        <firstName>Karissa</firstName>
+        <address>
+            <street>81 Maple Road</street>
+            <city>Milwaukee</city>
+            <state>WI</state>
+            <zipCode>53285</zipCode>
+            <country>US</country>
+        </address>
+        <emails>
+            <email>kgrice3@biblegateway.com</email>
+            <email>kgrice3@paypal.com</email>
+            <email>kgrice3@ucla.edu</email>
+        </emails>
+    </Employee>
+    <GoldCustomer>
+        <personCode>EpB9db</personCode>
+        <lastName>Martt</lastName>
+        <firstName>Chantalle</firstName>
+        <address>
+            <street>890 Crowley Alley</street>
+            <city>South Bend</city>
+            <state>IN</state>
+            <zipCode>46620</zipCode>
+            <country>US</country>
+        </address>
+        <emails>
+            <email>cmartt4@is.gd</email>
+            <email>cmartt4@google.fr</email>
+        </emails>
+    </GoldCustomer>
+    <Employee>
+        <personCode>LVKjCi</personCode>
+        <lastName>Rosenkranc</lastName>
+        <firstName>Alissa</firstName>
+        <address>
+            <street>08329 Oneill Terrace</street>
+            <city>Winston Salem</city>
+            <state>NC</state>
+            <zipCode>27105</zipCode>
+            <country>US</country>
+        </address>
+        <emails>
+            <email>arosenkranc5@weebly.com</email>
+            <email>arosenkranc5@infoseek.co.jp</email>
+        </emails>
+    </Employee>
+    <Employee>
+        <personCode>dqDA0Q</personCode>
+        <lastName>Whinney</lastName>
+        <firstName>Garey</firstName>
+        <address>
+            <street>706 Kingsford Road</street>
+            <city>Ogden</city>
+            <state>UT</state>
+            <zipCode>84403</zipCode>
+            <country>US</country>
+        </address>
+        <emails>
+            <email>gwhinney6@ucoz.ru</email>
+            <email>gwhinney6@freewebs.com</email>
+        </emails>
+    </Employee>
+    <Employee>
+        <personCode>rmKZBa</personCode>
+        <lastName>Twiggins</lastName>
+        <firstName>Galven</firstName>
+        <address>
+            <street>856 Caliangt Avenue</street>
+            <city>San Antonio</city>
+            <state>TX</state>
+            <zipCode>78245</zipCode>
+            <country>US</country>
+        </address>
+        <emails/>
+    </Employee>
+</persons>

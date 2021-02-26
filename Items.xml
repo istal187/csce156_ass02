@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<items>
+    <Service>
+        <itemCode>tnNTfW</itemCode>
+        <name>Bread Country Roll</name>
+        <BasePrice>12.12</BasePrice>
+    </Service>
+    <NewProduct>
+        <itemCode>svGx2t</itemCode>
+        <name>Wine - Chianti Classica Docg</name>
+        <BasePrice>35.57</BasePrice>
+    </NewProduct>
+    <GiftCard>
+        <itemCode>oo5I6X</itemCode>
+        <name>Beef - Shank</name>
+    </GiftCard>
+    <Service>
+        <itemCode>iVVsHo</itemCode>
+        <name>Pepper - Green</name>
+        <BasePrice>53.3</BasePrice>
+    </Service>
+    <UsedProduct>
+        <itemCode>0WeJK6</itemCode>
+        <name>Loaf Pan - 2 Lb Foil</name>
+        <BasePrice>93.56</BasePrice>
+    </UsedProduct>
+    <Service>
+        <itemCode>SDJwSL</itemCode>
+        <name>Kiwi Gold Zespri</name>
+        <BasePrice>20.54</BasePrice>
+    </Service>
+    <UsedProduct>
+        <itemCode>Wb4xHs</itemCode>
+        <name>Hand Towel</name>
+        <BasePrice>75.9</BasePrice>
+    </UsedProduct>
+    <Subscription>
+        <itemCode>veg95U</itemCode>
+        <name>Brocolinni - Gaylan Chinese</name>
+        <BasePrice>46.25</BasePrice>
+    </Subscription>
+</items>

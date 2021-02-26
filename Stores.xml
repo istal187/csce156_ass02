@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<stores>
+    <Store>
+        <storeCode>do53cw</storeCode>
+        <manager>
+            <personCode>EpB9db</personCode>
+            <lastName>Martt</lastName>
+            <firstName>Chantalle</firstName>
+            <address>
+                <street>890 Crowley Alley</street>
+                <city>South Bend</city>
+                <state>IN</state>
+                <zipCode>46620</zipCode>
+                <country>US</country>
+            </address>
+            <emails>
+                <email>cmartt4@is.gd</email>
+                <email>cmartt4@google.fr</email>
+            </emails>
+        </manager>
+        <address>
+            <street>2 Truax Hill</street>
+            <city>Schenectady</city>
+            <state>NY</state>
+            <zipCode>12305</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+    <Store>
+        <storeCode>7zNRit</storeCode>
+        <manager>
+            <personCode>ZMh59V</personCode>
+            <lastName>Anney</lastName>
+            <firstName>Vivyan</firstName>
+            <address>
+                <street>877 Fairview Circle</street>
+                <city>Tacoma</city>
+                <state>WA</state>
+                <zipCode>98424</zipCode>
+                <country>US</country>
+            </address>
+            <emails>
+                <email>vanney0@businesswire.com</email>
+                <email>vanney0@businessinsider.com</email>
+            </emails>
+        </manager>
+        <address>
+            <street>70 Ilene Pass</street>
+            <city>Pasadena</city>
+            <state>CA</state>
+            <zipCode>91131</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+    <Store>
+        <storeCode>ZsIzt6</storeCode>
+        <manager>
+            <personCode>uHsjRm</personCode>
+            <lastName>Mussotti</lastName>
+            <firstName>Barby</firstName>
+            <address>
+                <street>8 Mallory Alley</street>
+                <city>New Orleans</city>
+                <state>LA</state>
+                <zipCode>70129</zipCode>
+                <country>US</country>
+            </address>
+            <emails>
+                <email>bmussotti2@booking.com</email>
+                <email>bmussotti2@tinyurl.com</email>
+            </emails>
+        </manager>
+        <address>
+            <street>2400 Hooker Plaza</street>
+            <city>Fullerton</city>
+            <state>CA</state>
+            <zipCode>92640</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+    <Store>
+        <storeCode>88tMEy</storeCode>
+        <manager>
+            <personCode>EpB9db</personCode>
+            <lastName>Martt</lastName>
+            <firstName>Chantalle</firstName>
+            <address>
+                <street>890 Crowley Alley</street>
+                <city>South Bend</city>
+                <state>IN</state>
+                <zipCode>46620</zipCode>
+                <country>US</country>
+            </address>
+            <emails>
+                <email>cmartt4@is.gd</email>
+                <email>cmartt4@google.fr</email>
+            </emails>
+        </manager>
+        <address>
+            <street>945 Swallow Avenue</street>
+            <city>Pinellas Park</city>
+            <state>FL</state>
+            <zipCode>34665</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+    <Store>
+        <storeCode>UN6FIS</storeCode>
+        <manager>
+            <personCode>uHsjRm</personCode>
+            <lastName>Mussotti</lastName>
+            <firstName>Barby</firstName>
+            <address>
+                <street>8 Mallory Alley</street>
+                <city>New Orleans</city>
+                <state>LA</state>
+                <zipCode>70129</zipCode>
+                <country>US</country>
+            </address>
+            <emails>
+                <email>bmussotti2@booking.com</email>
+                <email>bmussotti2@tinyurl.com</email>
+            </emails>
+        </manager>
+        <address>
+            <street>3 Clove Road</street>
+            <city>Philadelphia</city>
+            <state>PA</state>
+            <zipCode>19151</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+    <Store>
+        <storeCode>Rujxy4</storeCode>
+        <manager>
+            <personCode>rmKZBa</personCode>
+            <lastName>Twiggins</lastName>
+            <firstName>Galven</firstName>
+            <address>
+                <street>856 Caliangt Avenue</street>
+                <city>San Antonio</city>
+                <state>TX</state>
+                <zipCode>78245</zipCode>
+                <country>US</country>
+            </address>
+            <emails/>
+        </manager>
+        <address>
+            <street>29782 Mandrake Drive</street>
+            <city>Hartford</city>
+            <state>CT</state>
+            <zipCode>61490</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+    <Store>
+        <storeCode>RmeBWb</storeCode>
+        <manager>
+            <personCode>uHsjRm</personCode>
+            <lastName>Mussotti</lastName>
+            <firstName>Barby</firstName>
+            <address>
+                <street>8 Mallory Alley</street>
+                <city>New Orleans</city>
+                <state>LA</state>
+                <zipCode>70129</zipCode>
+                <country>US</country>
+            </address>
+            <emails>
+                <email>bmussotti2@booking.com</email>
+                <email>bmussotti2@tinyurl.com</email>
+            </emails>
+        </manager>
+        <address>
+            <street>3 Twin Pines Crossing</street>
+            <city>Mobile</city>
+            <state>AL</state>
+            <zipCode>36622</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+    <Store>
+        <storeCode>HVP1Rb</storeCode>
+        <manager>
+            <personCode>dqDA0Q</personCode>
+            <lastName>Whinney</lastName>
+            <firstName>Garey</firstName>
+            <address>
+                <street>706 Kingsford Road</street>
+                <city>Ogden</city>
+                <state>UT</state>
+                <zipCode>84403</zipCode>
+                <country>US</country>
+            </address>
+            <emails>
+                <email>gwhinney6@ucoz.ru</email>
+                <email>gwhinney6@freewebs.com</email>
+            </emails>
+        </manager>
+        <address>
+            <street>58 Raven Plaza</street>
+            <city>Bethesda</city>
+            <state>MD</state>
+            <zipCode>20892</zipCode>
+            <country>US</country>
+        </address>
+    </Store>
+</stores>

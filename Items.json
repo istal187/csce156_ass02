@@ -1,0 +1,41 @@
+{"items": [
+    {
+        "itemCode": "tnNTfW",
+        "name": "Bread Country Roll",
+        "hourlyRate": 12.12
+    },
+    {
+        "itemCode": "svGx2t",
+        "name": "Wine - Chianti Classica Docg",
+        "basePrice": 35.57
+    },
+    {
+        "itemCode": "oo5I6X",
+        "name": "Beef - Shank"
+    },
+    {
+        "itemCode": "iVVsHo",
+        "name": "Pepper - Green",
+        "hourlyRate": 53.3
+    },
+    {
+        "itemCode": "0WeJK6",
+        "name": "Loaf Pan - 2 Lb Foil",
+        "basePrice": 93.56
+    },
+    {
+        "itemCode": "SDJwSL",
+        "name": "Kiwi Gold Zespri",
+        "hourlyRate": 20.54
+    },
+    {
+        "itemCode": "Wb4xHs",
+        "name": "Hand Towel",
+        "basePrice": 75.9
+    },
+    {
+        "itemCode": "veg95U",
+        "name": "Brocolinni - Gaylan Chinese",
+        "annualFee": 46.25
+    }
+]}

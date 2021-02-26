@@ -1,0 +1,207 @@
+{"stores": [
+    {
+        "address": {
+            "zipCode": "12305",
+            "country": "US",
+            "city": "Schenectady",
+            "street": "2 Truax Hill",
+            "state": "NY"
+        },
+        "manager": {
+            "emails": [
+                "cmartt4@is.gd",
+                "cmartt4@google.fr"
+            ],
+            "lastName": "Martt",
+            "firstName": "Chantalle",
+            "address": {
+                "zipCode": "46620",
+                "country": "US",
+                "city": "South Bend",
+                "street": "890 Crowley Alley",
+                "state": "IN"
+            },
+            "personCode": "EpB9db"
+        },
+        "storeCode": "do53cw"
+    },
+    {
+        "address": {
+            "zipCode": "91131",
+            "country": "US",
+            "city": "Pasadena",
+            "street": "70 Ilene Pass",
+            "state": "CA"
+        },
+        "manager": {
+            "emails": [
+                "vanney0@businesswire.com",
+                "vanney0@businessinsider.com"
+            ],
+            "lastName": "Anney",
+            "firstName": "Vivyan",
+            "address": {
+                "zipCode": "98424",
+                "country": "US",
+                "city": "Tacoma",
+                "street": "877 Fairview Circle",
+                "state": "WA"
+            },
+            "personCode": "ZMh59V"
+        },
+        "storeCode": "7zNRit"
+    },
+    {
+        "address": {
+            "zipCode": "92640",
+            "country": "US",
+            "city": "Fullerton",
+            "street": "2400 Hooker Plaza",
+            "state": "CA"
+        },
+        "manager": {
+            "emails": [
+                "bmussotti2@booking.com",
+                "bmussotti2@tinyurl.com"
+            ],
+            "lastName": "Mussotti",
+            "firstName": "Barby",
+            "address": {
+                "zipCode": "70129",
+                "country": "US",
+                "city": "New Orleans",
+                "street": "8 Mallory Alley",
+                "state": "LA"
+            },
+            "personCode": "uHsjRm"
+        },
+        "storeCode": "ZsIzt6"
+    },
+    {
+        "address": {
+            "zipCode": "34665",
+            "country": "US",
+            "city": "Pinellas Park",
+            "street": "945 Swallow Avenue",
+            "state": "FL"
+        },
+        "manager": {
+            "emails": [
+                "cmartt4@is.gd",
+                "cmartt4@google.fr"
+            ],
+            "lastName": "Martt",
+            "firstName": "Chantalle",
+            "address": {
+                "zipCode": "46620",
+                "country": "US",
+                "city": "South Bend",
+                "street": "890 Crowley Alley",
+                "state": "IN"
+            },
+            "personCode": "EpB9db"
+        },
+        "storeCode": "88tMEy"
+    },
+    {
+        "address": {
+            "zipCode": "19151",
+            "country": "US",
+            "city": "Philadelphia",
+            "street": "3 Clove Road",
+            "state": "PA"
+        },
+        "manager": {
+            "emails": [
+                "bmussotti2@booking.com",
+                "bmussotti2@tinyurl.com"
+            ],
+            "lastName": "Mussotti",
+            "firstName": "Barby",
+            "address": {
+                "zipCode": "70129",
+                "country": "US",
+                "city": "New Orleans",
+                "street": "8 Mallory Alley",
+                "state": "LA"
+            },
+            "personCode": "uHsjRm"
+        },
+        "storeCode": "UN6FIS"
+    },
+    {
+        "address": {
+            "zipCode": "61490",
+            "country": "US",
+            "city": "Hartford",
+            "street": "29782 Mandrake Drive",
+            "state": "CT"
+        },
+        "manager": {
+            "emails": [],
+            "lastName": "Twiggins",
+            "firstName": "Galven",
+            "address": {
+                "zipCode": "78245",
+                "country": "US",
+                "city": "San Antonio",
+                "street": "856 Caliangt Avenue",
+                "state": "TX"
+            },
+            "personCode": "rmKZBa"
+        },
+        "storeCode": "Rujxy4"
+    },
+    {
+        "address": {
+            "zipCode": "36622",
+            "country": "US",
+            "city": "Mobile",
+            "street": "3 Twin Pines Crossing",
+            "state": "AL"
+        },
+        "manager": {
+            "emails": [
+                "bmussotti2@booking.com",
+                "bmussotti2@tinyurl.com"
+            ],
+            "lastName": "Mussotti",
+            "firstName": "Barby",
+            "address": {
+                "zipCode": "70129",
+                "country": "US",
+                "city": "New Orleans",
+                "street": "8 Mallory Alley",
+                "state": "LA"
+            },
+            "personCode": "uHsjRm"
+        },
+        "storeCode": "RmeBWb"
+    },
+    {
+        "address": {
+            "zipCode": "20892",
+            "country": "US",
+            "city": "Bethesda",
+            "street": "58 Raven Plaza",
+            "state": "MD"
+        },
+        "manager": {
+            "emails": [
+                "gwhinney6@ucoz.ru",
+                "gwhinney6@freewebs.com"
+            ],
+            "lastName": "Whinney",
+            "firstName": "Garey",
+            "address": {
+                "zipCode": "84403",
+                "country": "US",
+                "city": "Ogden",
+                "street": "706 Kingsford Road",
+                "state": "UT"
+            },
+            "personCode": "dqDA0Q"
+        },
+        "storeCode": "HVP1Rb"
+    }
+]}
